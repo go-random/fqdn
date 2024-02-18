@@ -1,4 +1,4 @@
-package template
+package fqdn
 
 import (
 	"math/rand"

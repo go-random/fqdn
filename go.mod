@@ -1,4 +1,4 @@
-module github.com/go-random/template
+module github.com/go-random/fqdn
 
 go 1.21.4
 
